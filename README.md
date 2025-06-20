@@ -58,9 +58,10 @@ Follow the steps to prepare the environment and data for running the notebooks.
 
 Clone the project to your local machine:
 
-``bash
+```bash
 git clone https://github.com/prachimishra1/Retinal-Vessel-Segmentation-and-Early-Stage-Diabetic-Retinopathy-Classification.git
 cd Retinal-Vessel-Segmentation-and-Early-Stage-Diabetic-Retinopathy-Classification
+```
 
 ---
 

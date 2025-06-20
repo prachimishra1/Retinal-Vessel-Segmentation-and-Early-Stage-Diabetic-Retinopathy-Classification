@@ -34,7 +34,7 @@ SegClassNet is a deep learning system that performs **retinal vessel segmentatio
 
 The architecture consists of two main stages: **segmentation** and **classification**. A U-Net is used for vessel segmentation, followed by a CNN-based classification module for diabetic retinopathy detection.
 
-![Model Architecture](./assets/model_architecture.jpeg)
+![Model Architecture](./asset/overview_dia..jpeg)
 
 ---
 
@@ -153,19 +153,19 @@ SegClassNet was evaluated on both segmentation and classification tasks using th
 
 Shows the original fundus image and its predicted vessel mask.
 
-![Segmentation Result](./assets/segmentation_result.png)
+![Segmentation Result](./asset/segmentation_result_2.jpeg)
 
 #### ✅ DR Classification Output
 
 Displays prediction for early-stage diabetic retinopathy (e.g., *Abnormal* or *Normal*).
 
-![Classification Output](./assets/classification_output.png)
+![Classification Output](./asset/classification_result_2.jpeg)
 
 #### 🧑‍💻 UI Demo Screenshot
 
 Illustrates the interactive UI allowing image upload and real-time output.
 
-![UI Screenshot](./assets/ui_screenshot.png)
+![UI Screenshot](./asset/ui_output.jpeg)
 
 ## 👥 Contributors
 

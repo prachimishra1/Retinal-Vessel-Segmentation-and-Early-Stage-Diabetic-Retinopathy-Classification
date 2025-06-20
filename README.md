@@ -81,7 +81,7 @@ Download the following datasets from Kaggle:
 - 🔗 [RetinoMix‑5](https://www.kaggle.com/datasets/parikshakaur/retinomix-5)
 - 🔗 [MESSIDOR](https://www.kaggle.com/datasets/parikshakaur/messidor)
 
-After downloading, organize them into the following directory structure:
+After downloading, organize them into the following directory `data/` structure:
 
 data/
 ├── retinomix_5/

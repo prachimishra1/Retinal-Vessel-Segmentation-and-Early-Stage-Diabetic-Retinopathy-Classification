@@ -168,7 +168,7 @@ Illustrates the interactive UI allowing image upload and real-time output.
 
 - [Prachi Mishra](https://github.com/prachimishra1)
 - [Jyoti Singh](https://github.com/Jyoti2024)
-- [A](https://github.com/username)
+- [Abhishek Pandey](https://github.com/EveryAbhi00)
 
 ---
 ## 📄 License

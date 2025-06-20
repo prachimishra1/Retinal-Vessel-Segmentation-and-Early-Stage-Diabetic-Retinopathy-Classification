@@ -1,6 +1,6 @@
-#"VascuDR-Net:: A Dual-Stage U-Net Framework for Retinal Vessel Segmentation and Early Diabetic Retinopathy Detection"
+##VascuDR-Net
 
-**SegClassNet is a deep learning system that performs **retinal vessel segmentation** and **early-stage diabetic retinopathy (DR) classification** in a single pipeline. Designed with a U-Net-based architecture and attention mechanisms, it supports robust clinical insights from fundus images.
+***A Dual-Stage U-Net Framework for Retinal Vessel Segmentation and Early Diabetic Retinopathy Detection
 
 ---
 

@@ -62,6 +62,54 @@ Clone the project to your local machine:
 git clone https://github.com/prachimishra1/Retinal-Vessel-Segmentation-and-Early-Stage-Diabetic-Retinopathy-Classification.git
 cd Retinal-Vessel-Segmentation-and-Early-Stage-Diabetic-Retinopathy-Classification
 ```
+### 2. Install Dependencies
+
+Install all required Python packages using the provided `requirements.txt` file:
+
+```bash
+pip install -r requirements.txt
+```
+  💡 Using Jupyter Notebook or Google Colab?
+Add the following line at the top of your notebook:
+```bash
+ !pip install -r requirements.txt
+```
+### 3. Download and Organize Datasets
+
+Download the following datasets from Kaggle:
+
+- 🔗 [RetinoMix‑5](https://www.kaggle.com/datasets/parikshakaur/retinomix-5)
+- 🔗 [MESSIDOR](https://www.kaggle.com/datasets/parikshakaur/messidor)
+
+After downloading, organize them into the following directory structure:
+
+data/
+├── retinomix_5/
+│ ├── images/
+│ └── masks/
+└── messidor/
+├── images/
+└── labels.csv
+
+> Make sure the folder names and structure match exactly to avoid file path errors during training or inference.
+
+---
+
+### 4. Run the Notebooks
+
+Navigate to the `notebooks/` directory and open the Jupyter notebooks:
+
+- `Segmentation_Training.ipynb` — Train the segmentation model  
+- `Classification_Training.ipynb` — Train the DR classification model  
+- `Evaluation.ipynb` — Evaluate model performance  
+- `Inference_Demo.ipynb` — Run end-to-end prediction on a new image
+
+You can run these using:
+
+- Jupyter Notebook locally  
+- Google Colab (recommended for limited hardware)
+
+> 📌 Make sure dependencies are installed and datasets are prepared before running the notebooks.
 
 ---
 

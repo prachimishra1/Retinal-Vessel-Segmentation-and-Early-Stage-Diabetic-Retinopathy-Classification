@@ -82,7 +82,7 @@ Download the following datasets from Kaggle:
 - 🔗 [MESSIDOR](https://www.kaggle.com/datasets/parikshakaur/messidor)
 
 After downloading, organize them into the following directory `data/` structure:
-
+```
 data/
 ├── retinomix_5/
 │ ├── images/
@@ -90,7 +90,7 @@ data/
 └── messidor/
 ├── images/
 └── labels.csv
-
+```
 > Make sure the folder names and structure match exactly to avoid file path errors during training or inference.
 
 ---
@@ -170,8 +170,8 @@ Illustrates the interactive UI allowing image upload and real-time output.
 ## 👥 Contributors
 
 - [Prachi Mishra](https://github.com/prachimishra1)
-- [Co-author 1](https://github.com/username)
-- [Co-author 2](https://github.com/username)
+- [Jyoti Singh](https://github.com/Jyoti2024)
+- [A](https://github.com/username)
 
 ---
 ## 📄 License

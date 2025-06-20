@@ -100,8 +100,7 @@ Navigate to the `notebooks/` directory and open the Jupyter notebooks:
 
 - `Segmentation_Training.ipynb` — Train the segmentation model  
 - `Classification_Training.ipynb` — Train the DR classification model  
-- `Evaluation.ipynb` — Evaluate model performance  
-- `Inference_Demo.ipynb` — Run end-to-end prediction on a new image
+- `Interface_Demo.py` — Run end-to-end prediction on a new image
 
 You can run these using:
 
@@ -120,12 +119,11 @@ All training, evaluation, and inference steps can be run directly from the provi
 
 - `Segmentation_Training.ipynb` – Train U-Net model for retinal vessel segmentation  
 - `Classification_Training.ipynb` – Train CNN model for DR classification  
-- `Evaluation.ipynb` – Evaluate segmentation and classification models  
-- `Inference_Demo.ipynb` – Run full pipeline on new fundus images
+- `Interface_Demo.py` – Run full pipeline on new fundus images
 
 ### 📌 How to Use
 
-1. Open any `.ipynb` file using Jupyter Notebook or Google Colab.
+1. Open any `.ipynb`,`.py` file using Jupyter Notebook or Google Colab.
 2. Follow the step-by-step instructions in each notebook cell.
 3. Modify parameters (e.g., dataset path, number of epochs) as needed.
 

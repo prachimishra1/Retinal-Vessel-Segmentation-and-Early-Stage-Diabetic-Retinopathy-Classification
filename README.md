@@ -14,7 +14,6 @@ SegClassNet is a deep learning system that performs **retinal vessel segmentatio
 - [⚙️ Setup](#-setup)
 - [🚀 Usage](#-usage)
 - [🧪 Results](#-results)
-- [📁 Project Structure](#-project-structure)
 - [📓 Jupyter Notebooks](#-jupyter-notebooks)
 - [👥 Contributors](#-contributors)
 - [📄 License](#-license)
